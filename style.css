@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: #424e61;
+    display: flex;
+}
+
+.lista-cabecalho{
+    color: white;
+    font-size: 23px;
+}
