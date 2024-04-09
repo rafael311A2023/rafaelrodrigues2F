@@ -23,6 +23,7 @@
     height: 500px;
     padding: 100px;
     color: white;
+    display: flex;
 }
 
 .primeiro-paragrafo{
@@ -31,4 +32,8 @@
 
 .segundo-paragrafo{
     padding: 15x;
+}
+
+.aluno{
+    width: 25%;
 }
