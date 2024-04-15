@@ -7,6 +7,7 @@
     background-color: #424e61;
     display: flex;
     justify-content: space-around;
+    
 }
 
 .lista-cabecalho{
@@ -16,6 +17,7 @@
 
 .lista-item{
     display: inline-block;
+    padding: 15px;
 }
 
 .primeira-parte{
@@ -27,7 +29,7 @@
 }
 
 .primeiro-paragrafo{
-    padding: 15x;
+    padding: 15px;
 }
 
 .segundo-paragrafo{
@@ -36,4 +38,16 @@
 
 .aluno{
     width: 25%;
+}
+
+.lista-cabecalho{
+    padding: 15px;
+}
+
+.quem-somos{
+    padding: 20px;
+}
+
+.aluno{
+    width: 35%;
 }
