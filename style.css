@@ -33,7 +33,7 @@
 }
 
 .segundo-paragrafo{
-    padding: 15x;
+    padding: 15p    x;
 }
 
 .aluno{
@@ -49,5 +49,16 @@
 }
 
 .aluno{
+    width: 35%;
+}
+
+.titulo-estudantes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.textos{
     width: 35%;
 }
